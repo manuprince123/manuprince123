@@ -85,27 +85,8 @@
 </p>
 
 ---
-## 📊 GitHub Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuprince123&theme=tokyonight" width="100%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuprince123&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manuprince123&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuprince123&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuprince123&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuprince123&theme=tokyo-night&hide_border=true"/>
-</p>
 
 # 🚀 Featured Projects
 
